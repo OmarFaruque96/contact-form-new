@@ -1,0 +1,12 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.title{
+	background-color: tomato;
+	color: white;
+	text-align: center;
+	font-size: 56px;
+	letter-spacing: 5px;
+}
